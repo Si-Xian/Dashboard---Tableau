@@ -34,6 +34,6 @@ Here are some screenshots of the key visualizations included in the dashboard:
 ---
 
 ## How to Replicate:
-To replicate this analysis, download the Tableau workbook (.twbx) or access the project on [Tableau Public](https://public.tableau.com/views/YourDashboard).
+To replicate this analysis, download the Tableau workbook (.twbx) or access the project on [Tableau Public](https://public.tableau.com/views/ABAV1_17279338119310/VisualizationofSuperstore?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 Link to the dataset: [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?select=Sample+-+Superstore.csv ).
