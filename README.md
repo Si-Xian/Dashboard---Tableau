@@ -4,7 +4,7 @@
 This Tableau dashboard analyzes sales, profit, and customer behavior trends using the **Sample Superstore** dataset. The dashboard provides insights into different segments of the store, including:
 
 - **Sales and Profit Trends** across regions and product categories.
-- **Top Products** by sales and profit.
+- **Detailed Segments** by sales and profit.
 - **Customer Segments** and their purchasing behavior.
 - **Geographical Insights** into performance by state and city.
 
@@ -13,10 +13,10 @@ This Tableau dashboard analyzes sales, profit, and customer behavior trends usin
 You can explore the full interactive dashboard on [Tableau Public](https://public.tableau.com/views/ABAV1_17279338119310/VisualizationofSuperstore?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ### Key Features:
-- **Sales Performance**: Visualizes sales and profit trends over time.
+- **Sales Performance**: Visualizes sales and profit trends over time and different regions.
 - **Product Categories**: Breaks down performance by category and sub-category.
 - **Regional Insights**: Includes a map showing sales and profit by region and state.
-- **Customer Segmentation**: Analyzes the purchasing behavior of different customer segments.
+- **Customer Analysis**: Analyzes the customer that repeat purchase, and visualized the customer cohort.
 
 ### Dataset
 The analysis is based on the **Sample Superstore** dataset, a common dataset for retail sales analysis in Tableau.
@@ -29,8 +29,6 @@ The analysis is based on the **Sample Superstore** dataset, a common dataset for
 Here are some screenshots of the key visualizations included in the dashboard:
 
 ![Sales and Profit Trends](link_to_screenshot1)
-![Top Products](link_to_screenshot2)
-
 ---
 
 ## How to Replicate:
