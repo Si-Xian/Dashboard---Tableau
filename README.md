@@ -29,7 +29,7 @@ The analysis is based on the **Sample Superstore** dataset, a common dataset for
 Here are some screenshots of the key visualizations included in the dashboard:
 
 ![Sales and Profit Trends](image/profit_analysis.png)
-()
+![](image/Sales.png)
 
 ---
 
